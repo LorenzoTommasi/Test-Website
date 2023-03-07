@@ -1,0 +1,24 @@
+header nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+  
+  header nav ul li {
+    display: inline;
+  }
+  
+  header nav ul li {
+    display: inline;
+    margin-right: 20px; /* Add right margin to each list item */
+  }
+
+  main {
+    text-align: center;
+  }
+
+  ol {
+    text-align: center;
+  }
+  
